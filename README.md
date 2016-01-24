@@ -8,3 +8,5 @@ and you will need running mySql server..
 This app has a login function created in mySql databese,
 it is able to keep the list of friends that user has added,
 also user is able to post and see other users (only friends) posts.
+
+P.S. this app still needs some "polishing" and some fixes has to be made.. This is just a raw material..
